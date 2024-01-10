@@ -1,5 +1,11 @@
 # Aplikasi Perpustakaan
 
+| NIM | Nama |
+|---- |----|
+| 312210267 | Dimas Firmansyah |
+| 312210193 | Agus Setiawan |
+| 312210615 | Ilham Ramadhan |
+
 # Installation
 ### Prerequisite
 - Python 3.7.15 or later
